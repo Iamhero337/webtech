@@ -1,0 +1,50 @@
+/* Universal selector */
+
+*{
+    color: darkblue;
+    font-size: 35px;
+}
+
+/* element selecto */
+h1{
+    color: white;
+    background-color: red;
+    border: 2px solid black;
+}
+
+p{
+    color: darkblue;
+}
+
+body{
+    color: purple;
+}
+
+/* Id selector */
+
+#Core_python_Heading{
+    color: darkblue;
+}
+
+#Manual_Testing_Heading{
+    color: darkblue;
+}
+
+#Web_dev_Heading{
+    color: green;
+}
+
+#Manual_Testing_Pargraph{
+    color: red;
+}
+
+#Web_dev_Paragraph{
+    background-color: greenyellow;
+    border: 3px solid gray;
+}
+
+#input{
+    outline: none;
+}
+
+#user

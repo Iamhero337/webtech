@@ -1,0 +1,15 @@
+/* Group Selector */
+#song_table{
+    text-align: center;
+    border: 5px solid gray;
+    border-collapse: collapse;
+}
+
+.song_table_headings,.song_table_datas{
+    border: 1px solid darkblue;
+}
+
+/* We can group multiple id values or class values or tagname or we can also
+also group a combination of tagname, id value , class value.  */
+
+/* tagname1,tagname2{ */
