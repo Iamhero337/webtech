@@ -1,0 +1,22 @@
+.gpi{
+    width: 200px;
+    height: 200px;
+    background-image: linear-gradient(to bottom right, lightpink, lightblue);
+    border-radius: 50%;
+    float: :left;
+}
+
+.gp{
+    width: 50%;
+    height: 50%;
+    background-color: white;
+    float: left;
+}
+
+#c1,#c4{
+    border-radius: 100% 0%;
+}
+
+#c2,#c3{
+    border-radius: 0% 100%;
+}
